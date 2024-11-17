@@ -20,7 +20,7 @@ You can install the package directly from GitHub:
 install.packages("devtools")
 
 # Install the package from GitHub
-devtools::install_github("sinan-yavuz/MIRTProjectPackage")
+devtools::install_github("Sinan-Yavuz/MIRTProjectPackage")
 ```
 
 ## Usage
