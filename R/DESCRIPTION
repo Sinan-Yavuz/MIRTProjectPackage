@@ -1,0 +1,14 @@
+Package: MIRTProjectPackage
+Type: Package
+Title: Tools for Multidimensional IRT Simulations
+Version: 0.1.0
+Author: Sinan Yavuz [aut, cre], Serife Okay [aut]
+Maintainer: Sinan Yavuz <yavuzsinan@gmail.com>
+Description: A package for simulating multidimensional IRT data and evaluating models.
+License: MIT
+Imports:
+    dplyr,
+    mirt,
+    parallel,
+    pbapply,
+    tidyr
